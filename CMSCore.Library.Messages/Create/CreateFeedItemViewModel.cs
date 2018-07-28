@@ -1,7 +1,7 @@
-﻿namespace CMSCore.Library.Messages
+﻿namespace CMSCore.Library.Messages.Create
 {
     using System.Collections.Generic;
- 
+
     public class CreateFeedItemViewModel
     {
         public bool CommentsEnabled { get; set; } = true;

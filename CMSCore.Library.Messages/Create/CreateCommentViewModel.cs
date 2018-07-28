@@ -1,4 +1,4 @@
-﻿namespace CMSCore.Library.Messages
+﻿namespace CMSCore.Library.Messages.Create
 {
     public class CreateCommentViewModel
     {

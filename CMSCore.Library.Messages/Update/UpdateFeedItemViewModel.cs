@@ -1,6 +1,7 @@
-﻿namespace CMSCore.Library.Messages
+﻿namespace CMSCore.Library.Messages.Update
 {
     using System.Collections.Generic;
+
     #region Write
 
     public class UpdateFeedItemViewModel

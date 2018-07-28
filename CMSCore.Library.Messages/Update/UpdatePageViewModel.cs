@@ -1,4 +1,4 @@
-﻿namespace CMSCore.Library.Messages
+﻿namespace CMSCore.Library.Messages.Update
 {
     #region Write 
 
